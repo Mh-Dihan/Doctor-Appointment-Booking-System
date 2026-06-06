@@ -1,7 +1,7 @@
 # 🩺 Doctor Appointment Booking System
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Doctor Appointment System Banner" width="100%" />
+  <img src="./frontend/src/assets/banner.png" alt="Doctor Appointment System Banner" width="100%" />
 </p>
 
 <p align="center">
